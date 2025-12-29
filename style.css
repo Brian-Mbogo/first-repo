@@ -1,0 +1,14 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.center{
+    text-align: center;
+}
+.nav-bar{
+    gap: 80px;
+    text-align: right;
+    background-color: aquamarine;
+    border-radius: 18px;
+    padding: 1%;
+}
